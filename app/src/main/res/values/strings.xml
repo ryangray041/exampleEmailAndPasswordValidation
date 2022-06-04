@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Week 1 Project</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="greenflag_customers_can">GreenFlag customers can</string>
+    <string name="create_an_account_to_access">create an account to access</string>
+    <string name="app_logo">App Logo</string>
+    <string name="car_health_updates">Car health updates</string>
+    <string name="policy_information">Policy information</string>
+    <string name="request_a_rescue_online">Request a rescue online</string>
+    <string name="tick_1">tick 1</string>
+    <string name="tick_2">tick 2</string>
+    <string name="tick_3">tick 3</string>
+    <string name="email_address">Email Address</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="imput_password_again">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_an_account_title">Create An Account</string>
+    <string name="your_password_should_have_a_minimum_of_8">Your password should have a minimum of 8</string>
+    <string name="characters_and_contain_at_least_one">characters and contain at least one</string>
+    <string name="number_one_uppercase_and_one_lower">number, one uppercase and one lower</string>
+    <string name="case_letter_you_can_use_special_characters">case letter. You can use special characters.</string>
+    <string name="password_pattern"><![CDATA[^(?=.*[0-9])(?=.*[A-Z])(?=.*[@#$%^&+=!])(?=\\S+$).{4,}$]]></string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome!</string>
+    <string name="email_display">Email Address:</string>
+    <string name="password_display">Password:</string>
+</resources>
